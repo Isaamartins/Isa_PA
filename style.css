@@ -126,5 +126,16 @@ p {
     transform: scale(1.02);
 }
 
+/* Segunda parte do nosso css */
+
+.conteudo {
+    /* Define o tamanho e a posição da nova sessão*/
+    position: relative;
+    z-index: 1;
+    width: 100%;
+    max-width: 1000px;
+    text-align: center;
+}
+
 
     
