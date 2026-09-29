@@ -137,5 +137,12 @@ p {
     text-align: center;
 }
 
+.conteudo h2 {
+    /* Estiliza o título da nova sessão*/
+    font-size: 2rem;
+    color: #ffffff;
+    margin-bottom: 30px;
+}
+
 
     
