@@ -55,7 +55,7 @@ body::after{
     right: 25%;
 }
 
-.card {
+.card{
     /* Estiliza o cartão principal */
     position: relative;
     z-index: 1;
@@ -72,7 +72,7 @@ body::after{
     transition: transform 0.3s ease, border-color 0.3s ease;
 
     /* Novo: impede que o cartão seja comprimido */
-    flex-shrink:
+    flex-shrink: 0;
 }
 
 .card:hover {
